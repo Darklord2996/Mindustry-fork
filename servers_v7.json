@@ -52,6 +52,10 @@
     "address": ["minty-server.ddns.net"]
   },
   {
+    "name": "Surrealment",
+    "address": ["md.surrealment.com:6567"]
+  },
+  {
     "name": "Phoenix Network",
     "address": ["172.104.253.198", "172.104.253.198:6464"]
   },
